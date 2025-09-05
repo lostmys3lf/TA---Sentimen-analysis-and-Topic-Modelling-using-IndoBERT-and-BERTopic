@@ -6,7 +6,6 @@ Analisis sentimen &amp; topik komentar TikTok ibu hamil di Indonesia dengan Indo
 [![Python](https://img.shields.io/badge/python-3.10-blue.svg)](https://www.python.org/)
 [![Transformers](https://img.shields.io/badge/transformers-4.43.0-green.svg)](https://huggingface.co/transformers/)
 [![PyTorch](https://img.shields.io/badge/pytorch-2.x-red.svg)](https://pytorch.org/)
-[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
 
 > Analisis sentimen & topik komentar TikTok ibu hamil di Indonesia dengan **IndoBERT**, **BERTopic**, dan **fuzzy match string**. Fokus pada kesehatan mental ibu hamil melalui klasifikasi sentimen, ekstraksi topik, dan pemetaan aspek.
 
